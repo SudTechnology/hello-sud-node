@@ -1,0 +1,10 @@
+{
+    "name": "hello-sud-node",
+    "version": "1.0.2",
+    "private": true,
+    "dependencies": {
+        "express": "~4.13.4",
+        "body-parser": "~1.15.1",
+        "express-partials": "^0.3.0"
+    }
+}
